@@ -11,7 +11,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
 
 ## 📂 Estrutura do Projeto
 
-### [Exercício 1: Sistema de Pagamento de Professores](Atividade1/src/SistemaNaoPolimorfico.java)
+### [Exercício 1: Sistema de Pagamento de Professores](Atividade1/src/SistemaPolimorfico.java)
 **Objetivo:** Comparar a manutenibilidade entre um sistema polimórfico e um não-polimórfico.
 
 * **Cenário:** Cálculo de salários para Professores Horistas, Dedicação Exclusiva e Pesquisadores.
@@ -20,7 +20,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
     * Implementação de Herança e Sobrescrita de Métodos (`@Override`).
     * **Análise Crítica:** Demonstração de como a abordagem OO respeita o princípio *Open/Closed* (SOLID), facilitando a extensão do código sem modificar regras existentes.
 
-### [Exercício 2: Sistema de Comissões de Vendas](./src/Exercicio2)
+### [Exercício 2: Sistema de Comissões de Vendas](Atividade2/src/SistemaComissao.java)
 **Objetivo:** Implementar regras de negócio complexas e hierarquia de classes.
 
 * **Cenário:** Cálculo de comissões para Vendedores Júnior, Sênior (com metas) e Gerentes (com fixo + comissão de equipe).
@@ -29,7 +29,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
     * Lista Heterogênea (Polimorfismo em Coleções).
     * Comparação com *Anti-Patterns* (uso excessivo de `if/else` e "God Class").
 
-### [Exercício 3: Tratamento de Exceções (Robustez)](./src/Exercicio3)
+### [Exercício 3: Tratamento de Exceções (Robustez)](Atividade3\src\Pergunta3)
 **Objetivo:** Refatorar um código legado para prevenir falhas de execução (*crashes*).
 
 * **Cenário:** Um sistema de divisão de números baseado em dígitos de telefone.
@@ -39,7 +39,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
     * Tratamento de `ArithmeticException` (divisão por zero).
     * Gerenciamento de recursos (fechamento seguro do `Scanner`).
 
-### [Exercício 4: Operações Matriciais](./src/Exercicio4)
+### [Exercício 4: Operações Matriciais](Atividade4\src\Pergunta4)
 **Objetivo:** Manipulação de arrays multidimensionais e passagem de parâmetros por referência.
 
 * **Cenário:** Subtração de duas matrizes `3x1` com armazenamento do resultado em uma terceira matriz.
