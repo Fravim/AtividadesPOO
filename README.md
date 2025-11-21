@@ -11,7 +11,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
 
 ## 📂 Estrutura do Projeto
 
-### [Exercício 1: Sistema de Pagamento de Professores](./src/Atividade1)
+### [Exercício 1: Sistema de Pagamento de Professores](Atividade1/src/SistemaNaoPolimorfico.java)
 **Objetivo:** Comparar a manutenibilidade entre um sistema polimórfico e um não-polimórfico.
 
 * **Cenário:** Cálculo de salários para Professores Horistas, Dedicação Exclusiva e Pesquisadores.
