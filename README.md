@@ -29,7 +29,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
     * Lista Heterogênea (Polimorfismo em Coleções).
     * Comparação com *Anti-Patterns* (uso excessivo de `if/else` e "God Class").
 
-### [Exercício 3: Tratamento de Exceções (Robustez)](Atividade3\src\Pergunta3)
+### [Exercício 3: Tratamento de Exceções (Robustez)](Atividade3\src\Pergunta3.java)
 **Objetivo:** Refatorar um código legado para prevenir falhas de execução (*crashes*).
 
 * **Cenário:** Um sistema de divisão de números baseado em dígitos de telefone.
@@ -39,7 +39,7 @@ Este repositório contém a resolução de uma lista de exercícios práticos de
     * Tratamento de `ArithmeticException` (divisão por zero).
     * Gerenciamento de recursos (fechamento seguro do `Scanner`).
 
-### [Exercício 4: Operações Matriciais](Atividade4\src\Pergunta4)
+### [Exercício 4: Operações Matriciais](Atividade4\src\Pergunta4.java)
 **Objetivo:** Manipulação de arrays multidimensionais e passagem de parâmetros por referência.
 
 * **Cenário:** Subtração de duas matrizes `3x1` com armazenamento do resultado em uma terceira matriz.
